@@ -1,3 +1,16 @@
+<p align="center"> 
+  <img height="200" src="https://repository-images.githubusercontent.com/914254108/95e35c61-0af0-4fe7-9339-17ab75a235b9" alt="covoyage logo">
+</p>
+
+<h3 align="left">Enterprise-level CICD solution</h3>
+
+<div align="left">
+
+**English | [简体中文](./README-ZH-CN.md)**
+
+</div>
+
+
 What is Covoyage?
 ---
 
